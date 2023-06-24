@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.outerDiv{
+    width: 100vw;
+    height: 100vh;
+    background-color: #2a364f;
+    display: grid;
+    place-items: center;
+}
+.innerDiv{
+    width: 80vh;
+    height: 70vh;
+    display: grid;
+    place-items: center;
+}
+.main-heading{
+    padding: 30px;
+    color: white;
+    font-size: 100px;
+}
